@@ -22,7 +22,7 @@ Repair boot files.
 Diagnosing Hardware Failures
 RAM Issues
 
-## Symptoms
+# Symptoms
 
 Random crashes
 System freezes
