@@ -24,15 +24,15 @@ RAM Issues
 
 # Symptoms
 
-Random crashes
-System freezes
-Blue Screen of Death (BSOD)
+Random crashes  
+System freezes  
+Blue Screen of Death (BSOD)  
 
 # Solution
 
-Reseat RAM.
-Test using Windows Memory Diagnostic.
-Hard Disk (HDD/SSD)
+Reseat RAM.  
+Test using Windows Memory Diagnostic.  
+Hard Disk (HDD/SSD)  
 
 # Symptoms
 
@@ -42,15 +42,15 @@ File corruption
 
 # Solution
 
-Run disk check (CHKDSK)
-Replace damaged drive if necessary.
-GPU Problems
+Run disk check (CHKDSK)  
+Replace damaged drive if necessary.  
+GPU Problems  
 
 # Symptoms
 
-No display
-Screen flickering
-Graphics artifacts
+No display  
+Screen flickering  
+Graphics artifacts  
 
 # Solution
 
@@ -61,60 +61,60 @@ Power Supply (PSU)
 
 # Symptoms
 
-PC not turning on
-Random shutdowns
+PC not turning on  
+Random shutdowns  
 
 # Solution
 
-Test PSU.
-Replace if defective.
+Test PSU.  
+Replace if defective.  
 ## 2. BIOS/UEFI and POST
 BIOS/UEFI
 
 BIOS or UEFI initializes hardware before loading the operating system.
 
 Common Tasks
-Change boot order
-Enable virtualization
-Reset BIOS settings
-Configure storage devices
-POST (Power-On Self-Test)
+Change boot order  
+Enable virtualization  
+Reset BIOS settings  
+Configure storage devices  
+POST (Power-On Self-Test  )
 
 POST checks hardware during startup.
 
 ## Common Errors
 
-Memory error
-Keyboard error
-CPU error
-Storage detection failure
+Memory error  
+Keyboard error  
+CPU error   
+Storage detection failure  
 ## 3. Peripheral Troubleshooting
 
 Common peripherals include:
 
-Keyboard
-Mouse
-Printer
-USB Devices
-Solutions
-Reconnect cables
-Update drivers
-Check Device Manager
-Restart device
+Keyboard  
+Mouse  
+Printer  
+USB Devices  
+# Solutions
+Reconnect cables  
+Update drivers  
+Check Device Manager  
+Restart device  
 ## 4. Blue Screen of Death (BSOD)
 
 BSOD indicates a critical Windows error.
 
-Causes
-Faulty RAM
-Driver conflicts
-Corrupted system files
-Hardware failure
-Troubleshooting
-Boot into Safe Mode
-Update drivers
-Run System Restore
-Scan system files
+# Causes
+Faulty RAM  
+Driver conflicts  
+Corrupted system files  
+Hardware failure  
+# Troubleshooting
+Boot into Safe Mode  
+Update drivers  
+Run System Restore  
+Scan system files  
 ## 5. Software/System Troubleshooting
 # Safe Mode
 
@@ -150,22 +150,22 @@ Update security patches
 
 Drivers allow hardware to communicate with the operating system.
 
-Common Problems
-Missing drivers
-Corrupted drivers
-Outdated drivers
-Solution
-Update through Device Manager
-Install manufacturer drivers
+# Common Problems  
+Missing drivers  
+Corrupted drivers  
+Outdated drivers  
+Solution  
+Update through Device Manager  
+Install manufacturer drives  
 ## 8. Disk Errors
 
 Disk utilities help maintain storage health.
 
-Common Tools
-CHKDSK
-Disk Cleanup
-Disk Management
-Format Utility
+Common Tools  
+CHKDSK   
+Disk Cleanup  
+Disk Management  
+Format Utility  
 ## 9. Networking Basics
 # IP Address
 
